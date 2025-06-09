@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+schedule
+sqlite3
+scikit-learn
